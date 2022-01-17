@@ -1,0 +1,25 @@
+{
+  "name": "onlineshoppingdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaynboyle/OnlineShoppingDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaynboyle/OnlineShoppingDB/issues"
+  },
+  "homepage": "https://github.com/kaynboyle/OnlineShoppingDB#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "node": "^17.3.1"
+  }
+}
